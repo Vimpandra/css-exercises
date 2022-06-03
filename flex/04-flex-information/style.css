@@ -7,9 +7,21 @@ img {
   height: 100px;
 }
 
-.title {
+h1 {
   font-size: 36px;
   font-weight: 900;
+  text-align: center;
+  margin: 32px auto;
+}
+
+.info-row {
+  display: flex;
+  gap: 52px;
+}
+
+.card {
+  width: 200px;
+  text-align: center;
 }
 
 /* do not edit this footer */
